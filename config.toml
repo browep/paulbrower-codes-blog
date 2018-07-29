@@ -4,7 +4,7 @@ title                   = "PaulBrower.Codes"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
-# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+# googleAnalytics       = "UA-10324101-14"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
     dateform            = "Mon Jan 02, 2006"
