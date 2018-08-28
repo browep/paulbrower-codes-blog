@@ -131,6 +131,17 @@ These three functions make up the logic for the whole smart contract.
 
 In our case of a studio trying to sell a movie direct to a consumer we have eliminated all third parties.  No distributors, no payment processors, no middle-men at all.  More importantly, it requires no trust.  Neither had to take the risk of "going first" and either losing funds or not getting paid.  It also inherits all the benefits of a blockchain solution: __permissionless__ ( no-one's permission was needed to buy or sell the movie), __borderless__ (the country of origin of the studio or the consumer never came up) and __censorship resistant__ (shutting down such a transaction would be extremely difficult as only an internet connection is needed)
 
+#### Further applications
+
+A movie was used as the example but the use case can be extended to pretty much any medium that satifies the following criteria. 
+
+* Can be consumed in serial
+* Parts of a file can be validated without the whole.  
+
+If we see 1% of a movie, we know it's the correct 1% and we can do that without the full movie.
+
+Lot's of media we consume fall into this category: livestreams, music, chat, books, professional advice.  They are all consumed serially and can be verified in chunks.  Some do not.  1% of a Linux ISO is completely useless.  
+
 #### Further reading
 
 More about state channels: [https://github.com/machinomy/awesome-state-channels](https://github.com/machinomy/awesome-state-channels)
