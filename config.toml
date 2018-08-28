@@ -27,4 +27,8 @@ googleAnalytics       = "UA-10324101-14"             # Tracking code, eg. "UA-11
 [[params.mainMenu]]
     link = "/about"
     text = "who is Paul Brower?"
+
+[[params.mainMenu]]
+    link = "/Paul_Brower_resume.pdf"
+    text = "resume"
     
